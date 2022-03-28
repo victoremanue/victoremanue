@@ -5,7 +5,7 @@
 <p> I'm always looking to improve my knowledge about technologies, and currently I have academic experiences and personal projects with Java, JavaScript, C, python and Haskel programming languages. I also have knowledge about HTML, CSS, and Play Framework in a more web-oriented context.
 </p>
 
-for more information, , contact me: <br> 
+for more information, contact me: <br> 
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-emanuel-219b8517b/)
 
 
