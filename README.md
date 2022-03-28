@@ -5,7 +5,8 @@
 <p> I'm always looking to improve my knowledge about technologies, and currently I have academic experiences and personal projects with Java, JavaScript, C, python and Haskel programming languages. I also have knowledge about HTML, CSS, and Play Framework in a more web-oriented context.
 </p>
 
-o see more information, contact me:
-[Linkedin](https://www.linkedin.com/in/victor-emanuel-219b8517b/)
+for more information, , contact me: <br> 
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-emanuel-219b8517b/)
+[![Gmail Badge](https://img.shields.io/badge/-victorpdf7@gmail.com-D44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorpdf7@gmail.com)](mailto:victorpdf7@gmail.com)
 
 
