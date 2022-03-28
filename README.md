@@ -7,6 +7,6 @@
 
 for more information, , contact me: <br> 
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-emanuel-219b8517b/)
-[![Gmail Badge](https://img.shields.io/badge/-victorpdf7@gmail.com-D44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorpdf7@gmail.com)](mailto:victorpdf7@gmail.com)
+
 
 
